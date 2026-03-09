@@ -2,9 +2,9 @@
 **AI Engineer · Generative AI** · Peshawar, Pakistan
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&style=flat-square)](https://linkedin.com/in/syed-faakhir-abid)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/beingscorpion)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:syedfaakhirabid@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=beingscorpion&style=flat-square&color=0e75b6)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/beingscorpion)-->
 
 ---
 
