@@ -69,8 +69,8 @@ Chat/Support API (Twilio or WhatsApp) – for real-time advisory and reminders
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white&logo=Ollama)
+![OpenAI](https://custom-icon-badges.demolab.com/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
 <!--![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=flat-square&logoColor=white)-->
 
 **Techniques**
