@@ -107,6 +107,11 @@ Chat/Support API (Twilio or WhatsApp) – for real-time advisory and reminders
 **BS in Artificial Intelligence** · GPA: 3.33/4.0
 FAST-NUCES, Peshawar
 
+**Awards**
+
+🥉 Bronze Medal · Academic Excellence (GPA) · FAST-NUCES *(Fall 2024)*<br>
+🥉 Bronze Medal · Academic Excellence (GPA) · FAST-NUCES *(Spring 2025)*
+
 ---
 
 <!--
