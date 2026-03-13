@@ -1,5 +1,5 @@
 # Syed Faakhir Abid
-**AI Engineer · Generative AI** · Peshawar, Pakistan
+**AI Engineer · Generative AI & Automation** · Peshawar, Pakistan
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&style=flat-square)](https://linkedin.com/in/syed-faakhir-abid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:syedfaakhirabid@gmail.com)
