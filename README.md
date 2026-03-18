@@ -25,7 +25,7 @@ I build Generative AI applications, RAG systems and AI agents using modern LLM f
 
 ## Projects
 
-**YouTube Research Assistant** · [Case Study](#) ~Ongoing
+**YouTube Research Assistant** · [Case Study](#)
 
 > RAG-based AI research assistant for YouTube content discovery with Qdrant vector DB, hybrid search, and Gemini LLM integration. On-the-fly transcript ingestion with BGE embeddings, BM25 sparse vectors, MMR-based diversity retrieval, and RAGAS evaluation pipeline for hallucination tracking and retrieval accuracy measurement.
 
