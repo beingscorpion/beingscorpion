@@ -25,7 +25,7 @@ I build Generative AI applications, RAG systems and AI agents using modern LLM f
 
 ## Projects
 
-**YouTube Research Assistant** · [Live](https://yt-research.netlify.app/) · [Case Study](https://ytresearch-scorp.netlify.app)
+**YouTube Research Assistant** · [Case Study](https://ytresearch-scorp.netlify.app)
 
 > RAG-based AI research assistant for multi-video YouTube content discovery with Qdrant vector DB, hybrid search, and Llama 3.3 70b LLM integration. On-the-fly transcript ingestion across multiple videos with BGE embeddings, BM25 sparse vectors, MMR-based diversity retrieval, and cross-video synthesis that reasons over 4–5 sources simultaneously. Includes timestamped deep links to exact video moments, a RAGAS evaluation pipeline for hallucination tracking and retrieval accuracy measurement, and achieves 91% sub-topic coverage with a 93% reduction in time-to-answer vs. manual search.
 
